@@ -3,7 +3,7 @@ simple login with Docker file
 
 # For docker:
 - Open the terminal
-- git clone https://github.com/Lpdw2017/login-php.git
+- Clone the project 
 - cd login-php
 - docker-compose build
 - docker-compose up -d
